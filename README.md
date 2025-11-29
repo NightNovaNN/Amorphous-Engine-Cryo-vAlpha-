@@ -112,7 +112,7 @@ Cryo has **no dependencies** except a C compiler (GCC or Clang).
 
 # 📜 Language Syntax
 
-Detailed syntax is in [`docs/syntax.md`](docs/syntax.md), but here’s a quick summary:
+Detailed syntax is in [`syntax.md`](syntax.md), but here’s a quick summary:
 
 ### Define variables
 ```
@@ -169,14 +169,14 @@ But the **Amorphous Engine already works**, and the core idea is proven.
 
 # 📚 Docs
 
-- [`docs/cryo.md`](docs/cryo.md) — Full explanation  
-- [`docs/syntax.md`](docs/syntax.md) — Language syntax  
+- [`cryo.md`](cryo.md) — Full explanation  
+- [`syntax.md`](syntax.md) — Language syntax  
 
 ---
 
 # 🧊 License
 
-Released under the MIT License.
+Released under the INN License.
 
 ---
 
@@ -185,3 +185,4 @@ It is simple, extreme, and intentionally limited — but it demonstrates a power
 
 > If computation can be done at compile time,  
 > then runtime should not exist.
+
