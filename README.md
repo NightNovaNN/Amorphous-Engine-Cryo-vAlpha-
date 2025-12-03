@@ -176,7 +176,7 @@ But the **Amorphous Engine already works**, and the core idea is proven.
 
 # 🧊 License
 
-Released under the INN License.
+Released under the MIT License.
 
 ---
 
@@ -185,4 +185,7 @@ It is simple, extreme, and intentionally limited — but it demonstrates a power
 
 > If computation can be done at compile time,  
 > then runtime should not exist.
+
+# Future
+Cryo update coming out tomorrow (4/12/2025)
 
